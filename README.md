@@ -1,2 +1,2 @@
 # Activity2
-Class 2 activitys
+Class 2 activity
